@@ -1,6 +1,6 @@
 # Lucas Guerra Linux Study
 
-This repository is designed to be the place where I upload all my Linux-related studies. Here you will find materials, notes, and code examples covering topics such as:
+This repository is designed to be the place where I'll upload all my Linux-related studies. Here you will find materials, notes, and code examples covering topics such as:
 
 - Bash scripting
 - File permissions
